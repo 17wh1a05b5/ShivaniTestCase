@@ -5,7 +5,7 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 import org.junit.jupiter.api.BeforeEach;
 
-public class Remove {
+public class Removechar {
 	/*TODO List 
 	 * 1. "" => ""
 	 * 2. "A" => ""
